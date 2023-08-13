@@ -6,5 +6,5 @@ snowflake database connection to import the data and implement data visualizatio
 
 To view the Visualizations in Tableau public: https://public.tableau.com/app/profile/vikyathi.garlapati/viz/Torism_Data/Story1
 
-##Dataset
+## Dataset
 The Dataset is Indian Tourism data taken from snowflake marketplace 
